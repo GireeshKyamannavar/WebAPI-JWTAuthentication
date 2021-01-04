@@ -1,4 +1,4 @@
-# WebAPI-JWTAuthentication
+# WebAPI JSON Web Token Authentication
 Implementing JWT authentication in Web API using .NET 5
 
 Step 1: To create a new ASP.Net Core Web API application, I will use Visual Studio 2019. After opening Visual Studio 2019, I will click on “Create a new project” option.
